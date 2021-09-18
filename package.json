@@ -1,0 +1,24 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "@popperjs/core": "^2.4.4",
+    "core-js": "^3.17.3",
+    "nuxt": "^2.14.5",
+    "randomcolor": "^0.6.2",
+    "v-clipboard": "^2.2.3",
+    "vue-notification-renderless": "^0.7.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.0.2",
+    "@tailwindcss/custom-form.values": "^0.2.1"
+  }
+}
